@@ -3,7 +3,6 @@
 
 Для проекта реализованы:
 1. IDEF1
-![image](https://github.com/vetafeda/BD/assets/124678022/496137c0-f22b-4868-850b-b4a4061fddff)
 3. DFD
 4. IDEF3
 5. UML диаграмма вариантов использования Use Case
