@@ -75,9 +75,6 @@
 Окно редактирования книги
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/e371d91e-057a-435e-a488-593431099f1b)
 
-Результат удаления книги
-![image](https://github.com/vetafeda/DataBook/assets/124678022/6b158fb7-73fe-45ab-845a-cb27b47623dc)
-
 Окно после нажатия кнопки «Мои заказы»
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/911191e9-59c8-45f7-8dfb-67965162fd84)
 
