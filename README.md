@@ -3,6 +3,7 @@
 
 Для проекта реализованы:
 1. IDEF0
+
 Контекстная диаграмма в методологии IDEF0:
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/d0ada5bd-88e5-4543-ac78-08b4cfde27c9)
 Декомпозиция контекстной диаграммы:
@@ -11,28 +12,31 @@
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/35a3899b-dd49-4e82-9dca-9b0a78029909)
 Декомпозиция блока «Продажа через интернет-магазин»:
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/ba2a2f00-0479-4553-85da-990b165ae5e5)
-3. DFD
+2. DFD
+
 Контекстная диаграмма в методологии DFD:
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/5aa81364-712b-4468-a431-b997c0c97136)
 Декомпозиция контекстной диаграммы:
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/b5896c44-06e2-49a1-a521-6699a949237a)
 Декомпозиция процесса «Реализация продажи товаров клиентам» DFD:
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/4a3090ae-d8a7-41d1-aeca-eb3279959c54)
-5. IDEF3
+3. IDEF3
+
 Контекстная диаграмма в методологии IDEF3:
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/7ced4344-54d0-44a3-850a-5d0494bc6440)
 Диаграмма декомпозиции активности «Обработка поставок»:
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/92cac25f-c0c5-49bd-9c06-4b21e69d8250)
 Диаграмма декомпозиции активности «Продажа клиентам товаров»:
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/896e9641-ae56-4d78-bc47-dc738ce57477)
-7. UML диаграмма вариантов использования Use Case
+4. UML диаграмма вариантов использования Use Case
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/60c5bd60-32eb-4393-b295-3ad487d03180)
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/c0a28b3e-788e-4bc7-af28-888884ed2b5c)
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/3896eea0-67b1-42db-a937-76a9394f5241)
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/27edf0bc-a5b2-40fc-945c-29ffce5d28a9)
-9. UML диаграмма классов (процесса выбора товара онлайн)
+5. UML диаграмма классов (процесса выбора товара онлайн)
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/a2c78445-d4c7-46d3-b8ba-3b98dff05101)
-11. ER-диаграмма
+6. ER-диаграмма
+
 Физическая модель:
 ![image](https://github.com/vetafeda/DataBook/assets/124678022/18062697-63f8-4cde-b4b8-ec17aabe6888)
 В MySQL Workbench:
